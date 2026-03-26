@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudande de Sistemas de informação, Designer Grafico..
+    Sou estudande de Sistemas de informação, Designer Grafico.
 
 </div>
 

@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudande de Sistemas de informação (Faculdade Descomplica), Designer Grafico (IBMR) e formado em Desenvolvimento Web (Colégio Santo Inacio).
+    Sou estudande de Sistemas de informação, Designer Grafico..
 
 </div>
 

@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi! Tudo bem? Meu nome é
-    <a href="[https://www.linkedin.com/in/raphael-araujo-660bab209/](https://www.linkedin.com/in/araujo-raphael/)">Raphael Araujo!</a>
+    <a href="https://www.linkedin.com/in/araujo-raphael/">Raphael Araujo!</a>
   </h1>
   
   <p align="center">
